@@ -14,7 +14,7 @@ JavaScript (Optional): Adds interactivity.
 
 ### How to View the Website
 You can visit the live version of the website here:
-https://yourusername.github.io/my-website
+https://azkassasin.github.io/azka/
 
 ### Installation (Optional)  
 
