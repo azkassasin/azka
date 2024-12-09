@@ -21,7 +21,7 @@ https://yourusername.github.io/my-website
 If you want to run the project locally:  
 1. Clone this repository:  
    ```bash  
-   git clone https://github.com/yourusername/my-website.git  
+   git clone https://azkassasin.github.io/azka/  
 
 ### Contributing
 If you have suggestions or improvements, feel free to open an issue or create a pull request.
