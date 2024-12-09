@@ -1,0 +1,62 @@
+/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to bottom, #b3e5fc, #0288d1); /* Ocean colors */
+    color: #ffffff;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* Header */
+  .header {
+    text-align: center;
+    padding: 40px;
+    background: #0288d1;
+    color: #ffffff;
+    border-bottom: 4px solid #b3e5fc;
+  }
+  
+  /* Rounded Sections */
+  .rounded-section {
+    background: #ffffff;
+    color: #333333;
+    border-radius: 15px;
+    padding: 20px;
+    margin: 20px 0;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Project Cards */
+  .project {
+    margin-bottom: 20px;
+    padding: 15px;
+    background: #e3f2fd;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Links */
+  a {
+    color: #0288d1;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Footer */
+  .footer {
+    text-align: center;
+    padding: 10px;
+    background: #01579b;
+    color: #ffffff;
+    margin-top: 20px;
+  }
+  
